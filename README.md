@@ -8,7 +8,7 @@
 
 ## Projetos atuais
 
-🤗 Criação de um Bot para o discord. Usando o Discord.py \n
-🥰 Criando um jogo extemamente simples em Python
-⚡ Estudando para a faculdade *Ta puxado*
-🌌 Aproveitando até o fim A ImersãoDev
+*🤗 Criação de um Bot para o discord. Usando o Discord.py
+*🥰 Criando um jogo extemamente simples em Python
+*⚡ Estudando para a faculdade *Ta puxado*
+*🌌 Aproveitando até o fim A ImersãoDev
